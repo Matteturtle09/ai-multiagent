@@ -1,4 +1,4 @@
-# ai_workforce
+# ai_multiagent
 
 To install dependencies:
 
